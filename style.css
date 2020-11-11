@@ -1,0 +1,15 @@
+.large{
+    width: 100%;
+    background-color: aliceblue;
+}
+.half{
+    width:50%;
+    background-color: red
+}
+.quarter{
+    width:30%;
+    background-color: rgb(238, 255, 0)
+}
+.half2{
+    width:50%;
+    background-color: blue
