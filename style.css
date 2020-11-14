@@ -1,15 +1,17 @@
-.large{
-    width: 100%;
-    background-color: aliceblue;
+.Quarter{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 600px;
+    background-color:white;
+    border: 1px solid #CCCCCC;
+    border-radius:200px;
 }
-.half{
-    width:50%;
-    background-color: red
+.Circle{
+    width:250px;
+    height:250px;
+    border-radius:50%;
+    background-color: red;
 }
-.quarter{
-    width:30%;
-    background-color: rgb(238, 255, 0)
-}
-.half2{
-    width:50%;
-    background-color: blue
